@@ -1,0 +1,12 @@
+print 'IMPORTING SETTINGS, DO NOT MODIFY THIS FILE.'
+HOST_IP = '192.168.1.37'
+HOST_PORT = '27015'
+CLIENT_IP = '108.228.3.179'
+CLIENT_PORT = '27015'
+version = 2.5
+NAME = 'Yeetfac'
+fullscreen = False
+selected_resolution = 2
+SKINS = [0, 13]
+CASES = [0, 0]
+selected_skin = 1
